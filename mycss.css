@@ -1,0 +1,7 @@
+body{
+    background-image: url("pic.gif");
+    background-repeat: repeat;
+    background-position: center top ;
+    background-attachment: scroll;
+}
+
